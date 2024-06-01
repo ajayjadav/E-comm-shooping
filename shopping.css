@@ -1,0 +1,21 @@
+.image1{
+    height: 650px;
+}
+.card-1{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cloth{
+    display: flex;
+    justify-content: space-evenly;
+
+    
+}
+.carousel-caption{
+    margin-top: 300vh;
+}
+
+.cardimage{
+    height: 250px;
+}
